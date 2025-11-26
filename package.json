@@ -1,0 +1,10 @@
+{
+  "name": "gemini-proxy-serverless",
+  "version": "1.0.0",
+  "description": "Serverless proxy for Gemini API key security.",
+  "main": "api/generate.js",
+  "dependencies": {
+    "@google/genai": "^0.1.0",
+    "cors": "^2.8.5"
+  }
+}
