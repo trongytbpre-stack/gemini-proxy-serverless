@@ -4,7 +4,7 @@
   "description": "Serverless proxy for Gemini API key security.",
   "main": "api/generate.js",
   "dependencies": {
-    "@google/genai": "latest", // Thay đổi tại đây
+    "@google/genai": "latest",
     "cors": "^2.8.5"
   }
 }
