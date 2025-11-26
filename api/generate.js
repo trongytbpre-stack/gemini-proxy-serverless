@@ -34,7 +34,7 @@ module.exports = async (req, res) => {
             ],
 
             generation_config: {
-                temperature: 0.7
+                temperature: 0
             }
         });
 
